@@ -1,0 +1,14 @@
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson3\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson3\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson3\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson3\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson3\Task1\bin\Debug\net8.0\Task1.exe
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson3\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson3\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson3\Task1\bin\Debug\net8.0\Task1.dll
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson3\Task1\bin\Debug\net8.0\Task1.pdb
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson3\Task1\obj\Debug\net8.0\Task1.dll
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson3\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson3\Task1\obj\Debug\net8.0\Task1.pdb
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson3\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с языками програмирования\01_CSHARP\Lesson3\Task1\obj\Debug\net8.0\ref\Task1.dll
